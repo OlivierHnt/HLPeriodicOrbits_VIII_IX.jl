@@ -1,0 +1,14 @@
+name = "HLPeriodicOrbits_VIII_IX"
+uuid = "8a8b135b-2751-4661-adfc-53a2c8af1ad9"
+authors = ["Kevin Church, Olivier Hénot"]
+version = "1.0.0"
+
+[deps]
+JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
+OrdinaryDiffEq = "1dea7af3-3e70-54e6-95c3-0bf5283fa5ed"
+RadiiPolynomial = "f2081a94-c849-46b6-8dc9-07bb90ed72a9"
+
+[compat]
+JLD2 = "0.4.22"
+OrdinaryDiffEq = "6.10.0"
+RadiiPolynomial = "0.4.5"
